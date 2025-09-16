@@ -1,7 +1,7 @@
 
 # Portfolio v1.5
 
-This is a personal portfolio site built with [Next.js](https://nextjs.org), React, and Tailwind CSS. Responsive, mobile-first, and deployed with GitHub Pages.
+This is my personal portfolio site, originally built as version 1.0 but updated for my Knight Hacks application. It’s built with Next.js, React, and Tailwind CSS. 
 
 
 ## Getting Started
