@@ -28,9 +28,7 @@ This is my personal portfolio site, originally built as version 1.0 but updated 
 ## Features
 
 - Built with Next.js 15, React 19, Tailwind CSS 4
-- Responsive and mobile-first design
 - Custom Matrix Rain animation
-- All assets in `public/` are used and referenced
 
 ## Editing
 
